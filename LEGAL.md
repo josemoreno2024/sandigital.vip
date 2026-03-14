@@ -18,6 +18,3 @@ El hash garantiza la integridad del documento registrado.
 ## Derechos reservados
 Este repositorio contiene documentación técnica protegida.  
 Queda prohibida la copia, distribución, modificación o reutilización sin autorización expresa del autor.
-
-## Nota
-El certificado completo puede incluirse en `/legal/certificado-coloriuris.pdf` si se desea.

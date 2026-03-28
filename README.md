@@ -25,7 +25,7 @@ San Digital se compone de:
 - **Frontend Web3**  
 - **Contratos inteligentes en opBNB**  
 - **Módulos de auditoría interna**  
-- **Sistema multi‑tier (T1 → T8)**  
+- **Arquitectura de contratos escalonados (T1 → T8)**  
 - **Centro de solvencia y validación**
 
 El diseño prioriza:
@@ -38,12 +38,23 @@ El diseño prioriza:
 
 ---
 
-## 🔗 Contrato On‑Chain (Mainnet opBNB)
+## 🔗 Contratos On‑Chain (Mainnet opBNB)
 
-**Tier 1 (Mainnet):**  
-`0x0b851e61655C82A2a9b9Bc1156D195f732CBEFc1`
+**Fecha de despliegue:** 15-03-2026  
+Verificable en [opbnbscan.com](https://opbnbscan.com)
 
-La fecha de despliegue es verificable en cualquier explorador de bloques.
+| Contrato | Dirección |
+|---|---|
+| T1 | `0xFdCe732572468A884F3Feb072F52AeBA5321f7bc` |
+| T2 | `0x1362A47cf9675A405F8eB530Cb0707Dc0Abf319d` |
+| T3 | `0xc6Cc761d455f1C5e75f3C098df6773Ca686480D5` |
+| T4 | `0xe8D5d0438560C62785784Be2004207d809A361Fb` |
+| T5 | `0x6074b1bB770b226fc9694e4f680cA55161adE670` |
+| T6 | `0x85f01C2538C3eEA4A9312D16C620b5290953ea3F` |
+| T7 | `0xE4A78B65E1B849e2d076d2AEe47c3cDa912C733a` |
+| T8 | `0xDD5697349BD8d916FA282a340C53Cd4C89AE3F1C` |
+
+Token USDT (opBNB Mainnet): `0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3`
 
 ---
 
